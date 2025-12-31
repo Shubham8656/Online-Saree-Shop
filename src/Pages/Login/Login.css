@@ -1,0 +1,46 @@
+.login-page {
+  max-width: 360px;
+  margin: 80px auto;
+  background: white;
+  padding: 30px;
+  border-radius: 16px;
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.12);
+  text-align: center;
+}
+
+.login-page h2 {
+  margin-bottom: 20px;
+  font-family: "Playfair Display", serif;
+}
+
+.login-page input {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 14px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+}
+
+.login-page button {
+  width: 100%;
+  padding: 12px;
+  background: #7b0d2f;
+  color: white;
+  border: none;
+  border-radius: 25px;
+  cursor: pointer;
+}
+
+.login-page button:hover {
+  background: #9e1b4f;
+}
+
+.login-footer {
+  margin-top: 15px;
+  font-size: 14px;
+}
+
+.error {
+  color: red;
+  margin-bottom: 10px;
+}

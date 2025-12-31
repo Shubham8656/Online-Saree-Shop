@@ -1,0 +1,31 @@
+.checkout-page {
+  max-width: 500px;
+  margin: 40px auto;
+  background: white;
+  padding: 30px;
+  border-radius: 16px;
+}
+
+.checkout-section textarea,
+.checkout-section input {
+  width: 100%;
+  margin-top: 10px;
+  padding: 12px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+}
+
+.checkout-summary {
+  margin: 20px 0;
+}
+
+.place-order-btn {
+  width: 100%;
+  padding: 14px;
+  background: #2ecc71;
+  color: white;
+  border: none;
+  border-radius: 30px;
+  font-size: 16px;
+  cursor: pointer;
+}

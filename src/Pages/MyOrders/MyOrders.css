@@ -1,0 +1,43 @@
+/* ===== MY ORDERS ===== */
+
+.orders-page {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 0 20px;
+}
+
+.orders-page h2 {
+  margin-bottom: 20px;
+  color: #7b0d2f;
+}
+
+.order-card {
+  background: white;
+  padding: 20px;
+  border-radius: 14px;
+  margin-bottom: 20px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+}
+
+.order-header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 14px;
+  font-weight: 600;
+}
+
+.order-total {
+  color: #7b0d2f;
+}
+
+.order-items {
+  border-top: 1px solid #eee;
+  padding-top: 12px;
+}
+
+.order-item {
+  display: flex;
+  justify-content: space-between;
+  font-size: 14px;
+  margin-bottom: 6px;
+}
